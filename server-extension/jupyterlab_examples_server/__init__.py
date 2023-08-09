@@ -1,5 +1,5 @@
+from ._handlers import setup_handlers
 from ._version import __version__
-from .handlers import setup_handlers
 
 
 def _jupyter_labextension_paths():
