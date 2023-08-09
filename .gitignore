@@ -18,3 +18,4 @@ labextension
 _version.py
 
 .jupyter_ystore.db
+venv/
